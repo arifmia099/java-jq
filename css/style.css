@@ -1,0 +1,28 @@
+
+.ques{
+	background-color: green;
+	padding: 15px;
+	cursor: pointer;
+}
+.ques h2{
+	color: #fff;
+}
+.ans{
+	background-color: red;
+	padding: 10px;
+	display: none;
+}
+.trigger{
+	
+	padding: 15px;
+	cursor: pointer;
+	background-color: red;
+	
+}
+
+}
+.log{
+	
+	padding: 10px;
+	
+	}
